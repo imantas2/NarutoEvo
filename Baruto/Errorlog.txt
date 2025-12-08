@@ -1,0 +1,2763 @@
+World opened on network port 1001.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+World opened on network port 1001.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+World opened on network port 1002.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: Cannot modify null.name.
+proc name: CreateCharacter (/mob/Login/verb/CreateCharacter)
+  usr: Imantas2 (/mob/Login)
+  src: Imantas2 (/mob/Login)
+  call stack:
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yaku (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yaku (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yaku", Players/y/yaku.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  usr.loc: null
+  src.loc: null
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+World opened on network port 1006.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  usr.loc: null
+  src.loc: null
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  usr.loc: null
+  src.loc: Hakiko (/mob/player)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Hakiko (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  usr.loc: null
+  src.loc: null
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  usr.loc: null
+  src.loc: null
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  usr.loc: null
+  src.loc: null
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  usr.loc: null
+  src.loc: null
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  usr.loc: null
+  src.loc: null
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  usr.loc: null
+  src.loc: null
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  usr.loc: null
+  src.loc: null
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  usr.loc: null
+  src.loc: null
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  usr.loc: null
+  src.loc: null
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Hakiko (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("hakiko", Players/h/hakiko.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)

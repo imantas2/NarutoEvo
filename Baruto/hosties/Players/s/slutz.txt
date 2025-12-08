@@ -1,0 +1,13 @@
+
+x = 141
+y = 165
+z = 10
+Clan = "Deidara"
+Password = "asd"
+mob = object(".0")
+	.0
+		type = /mob/player
+		SayUp = 0
+		LastMissionTime = -21903
+		Logins = "slutz"
+		clanskills = list()

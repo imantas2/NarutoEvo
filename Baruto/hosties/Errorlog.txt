@@ -1,0 +1,2520 @@
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Marda (/mob/player))
+Killerhand1 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+Warning: further proc crash messages are being suppressed to prevent overload...
+World opened on network port 1001.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+Warning: further proc crash messages are being suppressed to prevent overload...
+Sun Jun 05 17:06:22 2016
+World opened on network port 1001.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+Warning: further proc crash messages are being suppressed to prevent overload...
+runtime error: bad client
+proc name: GetScreenResolution (/proc/GetScreenResolution)
+  usr: Killerhand1 (/mob/Login)
+  src: null
+  call stack:
+GetScreenResolution(the player (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad client
+proc name: GetScreenResolution (/proc/GetScreenResolution)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Tyrece9 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Slutt (/mob/player))
+Tyrece9 (/mob/Login): LoadCharacter("slutt", Players/s/slutt.sav (/savefile))
+Tyrece9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad client
+proc name: Logins (/mob/Login/verb/Logins)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad client
+proc name: GetScreenResolution (/proc/GetScreenResolution)
+  usr: Killerhand1 (/mob/Login)
+  src: null
+  call stack:
+GetScreenResolution(the player (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New( (/mob/player))
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Killerhand1 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+ (/mob/player): UpdateSlots()
+Killerhand1 (/mob/Login): LoadCharacter("marda", Players/m/marda.sav (/savefile))
+Killerhand1 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad client
+proc name: GetScreenResolution (/proc/GetScreenResolution)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+Warning: further proc crash messages are being suppressed to prevent overload...
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(SirJubi (/mob/player))
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Desmondy9 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+SirJubi (/mob/player): UpdateSlots()
+Desmondy9 (/mob/Login): LoadCharacter("sirjubi", Players/s/sirjubi.sav (/savefile))
+Desmondy9 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+Warning: further proc crash messages are being suppressed to prevent overload...
+ has had an error while logging out. Mob deleted.
+ has had an error while logging out. Mob deleted.
+ has had an error while logging out. Mob deleted.
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(YakuIIII (/mob/player))
+Imantas2 (/mob/Login): CreateCharacter()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: YakuIIII (/mob/player)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(YakuIIII (/mob/player))
+YakuIIII (/mob/player): viewskilltree()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: undefined variable /obj/Jutsus/BugTornado/var/key
+proc name: Edit (/mob/Admin/verb/Edit)
+runtime error: undefined variable /obj/Jutsus/BugTornado/var/key
+proc name: Edit (/mob/Admin/verb/Edit)
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+1 (/obj/HotSlots/HotSlot1): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+2 (/obj/HotSlots/HotSlot2): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+3 (/obj/HotSlots/HotSlot3): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+4 (/obj/HotSlots/HotSlot4): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+5 (/obj/HotSlots/HotSlot5): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+6 (/obj/HotSlots/HotSlot6): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+7 (/obj/HotSlots/HotSlot7): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+8 (/obj/HotSlots/HotSlot8): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+9 (/obj/HotSlots/HotSlot9): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 10 (/obj/HotSlots/HotSlot10)
+  call stack:
+10 (/obj/HotSlots/HotSlot10): HotSlotNumber("F10")
+10 (/obj/HotSlots/HotSlot10): New(Yakuzo (/mob/player))
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 1 (/obj/HotSlots/HotSlot1)
+  call stack:
+1 (/obj/HotSlots/HotSlot1): HotSlotNumber("F1")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 2 (/obj/HotSlots/HotSlot2)
+  call stack:
+2 (/obj/HotSlots/HotSlot2): HotSlotNumber("F2")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 3 (/obj/HotSlots/HotSlot3)
+  call stack:
+3 (/obj/HotSlots/HotSlot3): HotSlotNumber("F3")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 4 (/obj/HotSlots/HotSlot4)
+  call stack:
+4 (/obj/HotSlots/HotSlot4): HotSlotNumber("F4")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 5 (/obj/HotSlots/HotSlot5)
+  call stack:
+5 (/obj/HotSlots/HotSlot5): HotSlotNumber("F5")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 6 (/obj/HotSlots/HotSlot6)
+  call stack:
+6 (/obj/HotSlots/HotSlot6): HotSlotNumber("F6")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 7 (/obj/HotSlots/HotSlot7)
+  call stack:
+7 (/obj/HotSlots/HotSlot7): HotSlotNumber("F7")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 8 (/obj/HotSlots/HotSlot8)
+  call stack:
+8 (/obj/HotSlots/HotSlot8): HotSlotNumber("F8")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+  usr: Imantas2 (/mob/Login)
+  src: 9 (/obj/HotSlots/HotSlot9)
+  call stack:
+9 (/obj/HotSlots/HotSlot9): HotSlotNumber("F9")
+Yakuzo (/mob/player): UpdateSlots()
+Imantas2 (/mob/Login): LoadCharacter("yakuzo", Players/y/yakuzo.sav (/savefile))
+Imantas2 (/mob/Login): Logins()
+runtime error: bad icon operation
+proc name: HotSlotNumber (/atom/proc/HotSlotNumber)
+runtime error: Cannot read null.Specialist
+proc name: JutsuCoolDown (/obj/proc/JutsuCoolDown)

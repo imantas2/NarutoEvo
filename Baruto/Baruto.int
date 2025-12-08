@@ -1,0 +1,11 @@
+// BEGIN_INTERNALS
+/*
+MAP_ICON_TYPE: 0
+WINDOW: Arena.dm;Naruto.dm;Ranks.dm;Soul Ban.dm;Staff.dm;Tutorial.dm;HealthBar\RaeKwon hud.dm;Jutsus\HandSigns.dm;Jutsus\Ninjutsu.dm;Jutsus\Summonings.dm;Events.dm;TestMap-Updated.dmm;Inventory.dm
+LAST_COMPILE_VERSION: 504.1234
+DIR: backup backup\backup Clothing CreationScreen CreationScreen\clan dmifonts f_damage HairStyles HealthBar Hud Jutsus Leaf Turfs Variables 
+FILE: Jutsus\HandSigns.dm
+LAST_COMPILE_TIME: 1465493650
+AUTO_FILE_DIR: ON
+*/
+// END_INTERNALS
