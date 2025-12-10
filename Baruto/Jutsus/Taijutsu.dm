@@ -1,4 +1,9 @@
 mob/var/tmp/KOs
+mob/var/tmp/
+	ChakraJutsuState = 0
+	ChakraJutsuIndex = 0
+	ChakraJutsuSequence = list()
+	ChakraJutsuTimer = 0
 mob
 	var/tmp/sheilded=0
 	var/tmp/gates[5]
@@ -281,9 +286,7 @@ mob
 						B.pixel_y=rand(1,5)
 						B.pixel_x=rand(1,5)
 						if(prob(35))step(B,src.dir)
-						else
-							if(prob(35))step(B,src.dir)
-							else ..()
+						else return
 						flick("punchr",src)
 						view(src) << sound('Sounds/Skill_BigRoketFire.wav',0,0,0,50)
 						PTimes--
@@ -1653,7 +1656,7 @@ mob/player
 						if(SC.dead==0)
 							if(SC.icon_state<>"blank")SC.icon_state=""
 							SC.dodge=0
-			if(src.canattack==1&&src.firing==0&&!src.likeaclone&&!Effects["Rasengan"]&&!Effects["Chidori"])
+			if(src.canattack==1&&src.firing==0&&!src.likeaclone&&!Effects["Rasengan"]&&!Effects["Chidori"]&&!Effects["Nin Training"])
 				if(src.explosivetag)
 					src.explosivetag=0
 					for(var/obj/Projectiles/Weaponry/ExplosiveTag/ET in view(src,50))
@@ -1766,7 +1769,7 @@ mob/proc/
 				A.pixel_y=7
 				A.dir = DIRS[1]
 				DIRS-=DIRS[1]
-				A.layer=1000000000000000
+				A.layer=9999
 				src.ArrowTasked = A
 				sleep(17)
 				if(A)del(A)
@@ -1875,7 +1878,7 @@ mob/proc/
 				A.pixel_x=15
 				A.pixel_y=7
 				A.dir = SOUTH
-				A.layer=1000000000000000
+				A.layer=9999
 				src.ArrowTasked = A
 				sleep(5)
 				if(A)del(A)
@@ -1986,7 +1989,7 @@ mob/proc/
 				A.pixel_y=7
 				A.dir = DIRS[1]
 				DIRS-=DIRS[1]
-				A.layer=1000000000000000
+				A.layer=9999
 				src.ArrowTasked = A
 				sleep(17)
 				if(A)del(A)
@@ -2039,6 +2042,75 @@ mob/proc/
 			src.JutsuCoolSlot(J)
 			spawn()
 				J.cooltimer=J.maxcooltime
+				J.JutsuCoolDown(src)
+	Nin_Training()
+		for(var/obj/Jutsus/Nin_Training/J in src.JutsusLearnt) if(J.Excluded==0)
+			if(Effects["Nin Training"])
+				Effects["Nin Training"]=null
+				src.overlays-=image('jutsus/chakra.dmi',"chakra")  // Optional visual
+				return
+			if(ChakraCheck(50)) return
+			if(loc.loc:Safe!=1) src.LevelStat("Ninjutsu",rand(4,8))
+			src.Levelup()
+			if(J.level<4)
+				if(loc.loc:Safe!=1) J.exp+=rand(2,5)
+				J.Levelup()
+			var/list/DIRS=list(NORTH,SOUTH,EAST,WEST)
+			var/streak=0
+			src.move=0
+			src.injutsu=1
+			src.canattack=0
+			src.firing=1
+			src.overlays+=image('jutsus/chakra.dmi',"chakra")  // chakracharge
+			src.icon_state="hands"
+			while(streak < 50 && !Prisoned)  // Max 20 arrows
+				if(!ChakraCheck(50))
+					src << "<span class='warning'>No chakra! Training ends (streak: [streak])</span>"
+					src.firing=0
+					break
+				src.chakra -= 50  // Consume per arrow
+				var/obj/A = new/obj()
+				A.IsJutsuEffect=src
+				A.loc = src.loc
+				A.icon = 'Misc Effects.dmi'
+				A.icon_state = "arrow"
+				A.pixel_x=15
+				A.pixel_y=7
+				A.dir = DIRS[1]
+				DIRS-=DIRS[1]
+				A.layer=9999
+				src.ArrowTasked = A
+				spawn()  // 1.7s limit
+					while(src.ArrowTasked == A)
+						if(src.dir == A.dir)
+						streak++
+						src << "<span class='boldnotice'>Success! Streak: [streak]</span>"
+						if(loc.loc:Safe!=1) src.LevelStat("Ninjutsu", 1)
+						del(A)
+						src.ArrowTasked = null
+						break
+					sleep(1)  // Tick for press
+				spawn(17)
+					if(src.ArrowTasked == A)  // "Press" = face arrow dir
+						src << "<span class='warning'>Timeout! Streak: [streak]</span>"
+						del(A)
+						src.ArrowTasked = null
+				sleep(20)
+			src.icon_state=""
+			src.overlays-=image('jutsus/chakra.dmi',"chakra")
+			src.move=1
+			src.injutsu=0
+			src.canattack=1
+			src.firing=0
+			src << "<span class='notice'>Training done! Ninjutsu gained: [streak]</span>"
+			src.ArrowTasked=null
+			Effects["Nin Training"]=null
+			J.Excluded = 1
+			J.uses++
+			J.maxcooltime = 60
+			src.JutsuCoolSlot(J)
+			spawn()
+				J.cooltimer = J.maxcooltime
 				J.JutsuCoolDown(src)
 	Chidori()
 		for(var/obj/Jutsus/Chidori/J in src.JutsusLearnt) if(J.Excluded==0)
@@ -2178,7 +2250,7 @@ mob/proc/
 				A.pixel_x=15
 				A.pixel_y=7
 				A.dir = SOUTH
-				A.layer=1000000000000000
+				A.layer=9999
 				src.ArrowTasked = A
 				sleep(5)
 				if(A)del(A)
