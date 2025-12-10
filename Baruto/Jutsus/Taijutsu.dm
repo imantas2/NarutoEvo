@@ -1,29 +1,38 @@
 mob/var/tmp/KOs
+obj/nin_arrow
+	icon = 'misc effects.dmi'
+	icon_state = "arrow"
+	layer = 9999
+	mouse_opacity = 0
+	New(atom/newloc, mob/M)
+		..(newloc)
+		density = 0
+		if(M) M.nin_arrow_obj = src
+		spawn(20) if(src) del(src)
 /client/verb/NinUp()
 	set hidden = 1
-	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.nin_training_active) return
+	if(!usr.client || !usr.nin_training_active) return  // Not active
 	if(usr.current_nin_arrow == NORTH)  // Matches UP
 		if(usr.NinArrowSuccess()) return
 	usr.EndNinTraining("Wrong (UP)! Streak: [usr.nin_streak]")
 /client/verb/NinDown()
 	set hidden = 1
 	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.nin_training_active) return
+	if(!usr.client || !usr.nin_training_active) return 
 	if(usr.current_nin_arrow == SOUTH)  // Matches UP
 		if(usr.NinArrowSuccess()) return
 	usr.EndNinTraining("Wrong (DOWN)! Streak: [usr.nin_streak]")
 /client/verb/NinLeft()
 	set hidden = 1
 	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.nin_training_active) return
+	if(!usr.client || !usr.nin_training_active) return 
 	if(usr.current_nin_arrow == EAST)  // Matches UP
 		if(usr.NinArrowSuccess()) return
 	usr.EndNinTraining("Wrong (LEFT)! Streak: [usr.nin_streak]")
 /client/verb/NinRight()
 	set hidden = 1
 	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.nin_training_active) return
+	if(!usr.client || !usr.nin_training_active) return 
 	if(usr.current_nin_arrow == WEST)  // Matches UP
 		if(usr.NinArrowSuccess()) return
 	usr.EndNinTraining("Wrong (RIGHT)! Streak: [usr.nin_streak]")
@@ -44,7 +53,7 @@ mob
 	var/nin_arrow_timer=0
 	var/nin_arrow_time=0
 	var/nin_training_active=0
-	var/obj/nin_arrow_obj = null
+	var/obj/nin_arrow_obj
 	var/tmp/gates[5]
 	var/tmp/guardians[1]
 	var/tmp/mystical_palms=0//Probably should add a technique for this.
@@ -2084,6 +2093,10 @@ mob/proc/
 				J.JutsuCoolDown(src)
 	Nin_Training()
 		for(var/obj/Jutsus/Nin_Training/J in src.JutsusLearnt) if(J.Excluded==0)
+			usr.nin_streak=0
+			src.nin_training_active=1
+			src.verbs += typesof(/client/verb/NinUp,/client/verb/NinDown,/client/verb/NinLeft,/client/verb/NinRight,/client/verb/NinEnd)
+				spawn() src.NinMasterLoop()
 			if(Effects["Nin Training"])
 				Effects["Nin Training"]=null
 				src.overlays-=image('jutsus/chakra.dmi',"chakra")  // Optional visual
@@ -2096,27 +2109,13 @@ mob/proc/
 				if(loc.loc:Safe!=1) J.exp+=rand(2,5)
 				J.Levelup()
 			var/list/DIRS=list(NORTH,SOUTH,EAST,WEST)
-			obj/nin_arrow
-				name = "nin_arrow"
-				icon = 'misc effects.dmi'
-				icon_state = "arrow"
-				layer = 9999
-				mouse_opacity = 0
-				anchored = 1
-				New(loc, mob/M)
-					..()
-					if(M) M.nin_arrow_obj = src
-					spawn(20) if(src) del(src)
 			src << "<span class='notice'><b>Nin_Training!</b> Press matching arrows within 1.5s. Streak: [src.nin_streak]</span>"
-			usr.nin_streak=0
-			src.nin_training_active=1
 			src.move=0
 			src.injutsu=1
 			src.canattack=0
 			src.firing=1
 			src.overlays+=image('jutsus/chakra.dmi',"chakra")  // chakracharge
 			src.icon_state="hands"
-			src.verbs += typesof(/client/verb/NinUp,/client/verb/NinDown,/client/verb/NinLeft,/client/verb/NinRight,/client/verb/NinEnd)
 			spawn() src.NinArrowLoop()
 			src.copy="Nin Training"
 			while(nin_streak < 50 && !Prisoned)  // Max 20 arrows
@@ -2169,13 +2168,37 @@ mob/proc/
 			spawn()
 				J.cooltimer = J.maxcooltime
 				J.JutsuCoolDown(src)
+	NinMasterLoop()
+		while(src.nin_training_active)
+			if(!src.NinSpawnArrow()) break
+			sleep(20)
+	NinSpawnArrow()
+		if(!src.nin_training_active) return 0
+		var/arrow_dir = pick(NORTH,SOUTH,EAST,WEST)
+		src.current_nin_arrow = arrow_dir
+		src.nin_arrow_time = world.time
+		var/client/C = src.client
+		if(src.nin_arrow_obj)
+			C.screen -= src.nin_arrow_obj
+			del(src.nin_arrow_obj)
+		src.nin_arrow_obj = new /obj/nin_arrow(C, src, arrow_dir)
+		spawn(15) src.NinArrowTimeoutCheck()
+		return 1
+	dir2text(dir/D)
+		switch(D)
+			if(NORTH) return "UP ↑"
+			if(SOUTH) return "DOWN ↓"
+			if(EAST) return "RIGHT →"
+			if(WEST) return "LEFT ←"
 	NinArrowLoop()
+		if(!src.nin_training_active || src.nin_arrow_obj) return
 		if(src.nin_streak < 0) return
 		var/arrow_dir = pick(NORTH, SOUTH, EAST, WEST)
 		var/arrow_emote = arrow_dir
 		src.current_nin_arrow = arrow_dir
 		src.nin_arrow_time = world.time
-		src.nin_arrow_obj = new /obj/nin_arrow(src.loc, src)
+		var/client/C = src.client
+		src.nin_arrow_obj = new /obj/nin_arrow(C, src, arrow_dir)
 		src.nin_arrow_obj.dir = arrow_dir
 		src.nin_arrow_obj.alpha = 255
 		switch(arrow_dir)
@@ -2187,8 +2210,13 @@ mob/proc/
 		spawn(15)
 			src.NinArrowTimeoutCheck()
 	NinArrowSuccess()
-		if(!src.nin_training_active || (world.time - src.nin_arrow_time) > 15) return 0
+		if(!src.nin_training_active || src.current_nin_arrow != D || (world.time - src.nin_arrow_time) > 15) return 0
 		if(src.nin_arrow_obj) del(src.nin_arrow_obj); src.nin_arrow_obj = null
+		var/client/C = src.client
+		if(src.nin_arrow_obj)
+			C.screen -= src.nin_arrow_obj
+			del(src.nin_arrow_obj)
+			src.nin_arrow_obj = null
 		src.nin_streak ++
 		src.nin_arrow_time = 0
 		src.current_nin_arrow = 0
@@ -2204,13 +2232,16 @@ mob/proc/
 			src.EndNinTraining("Missed! Final Streak: [src.nin_streak]")
 	EndNinTraining(reason="Ended")
 		src.nin_training_active = 0
+		var/client/C = src.client
+		if(src.nin_arrow_obj && C)
 		src << "<span class='warning'><b>[reason]</b></span>"
-		src.current_nin_arrow = 0
 		src.nin_arrow_time = 0
-		if(src.nin_arrow_obj)
+		if(src.nin_arrow_obj && C)
+			C.screen -= src.nin_arrow_obj
 			del(src.nin_arrow_obj)
 			src.nin_arrow_obj = null
 		src.nin_streak = 0  // Reset
+		src.current_nin_arrow = 0
 		src.verbs -= typesof(/client/verb/NinUp,/client/verb/NinDown,/client/verb/NinLeft,/client/verb/NinRight,/client/verb/NinEnd)
 	Chidori()
 		for(var/obj/Jutsus/Chidori/J in src.JutsusLearnt) if(J.Excluded==0)
