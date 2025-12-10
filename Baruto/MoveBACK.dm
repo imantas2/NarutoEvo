@@ -23,7 +23,7 @@ obj
 			name=""
 			icon='Misc Effects.dmi'
 			icon_state="arrow"
-			layer=9998
+			layer=9999
 			dir=WEST
 			pixel_x=-64
 			//New()
@@ -32,21 +32,21 @@ obj
 			name=""
 			icon='Misc Effects.dmi'
 			icon_state="arrow"
-			layer=9998
+			layer=9999
 			dir=EAST
 			pixel_x=64
 		UArrow
 			name=""
 			icon='Misc Effects.dmi'
 			icon_state="arrow"
-			layer=9998
+			layer=9999
 			dir=NORTH
 			pixel_y=64
 		DArrow
 			name=""
 			icon='Misc Effects.dmi'
 			icon_state="arrow"
-			layer=9998
+			layer=9999
 			dir=SOUTH
 			pixel_y=-64
 	Blood
@@ -73,6 +73,7 @@ mob
 	proc
 		ChidoriUp()Effects["Chidori"]++
 		RasenganUp()Effects["Rasengan"]++
+		NinTrainingUp()Effects["Nin Training"]++
 		do8palms()
 			src.copy = "waiting"
 			for(var/i=0,i<5,i++)
@@ -269,7 +270,7 @@ client
 			if(src.mob.copy=="Climb")
 				if(src.mob.arrow=="U")
 					spawn()
-						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						WArrow.pixel_x=-64
 						WArrow.dir=WEST
 						src.images-=src.mob.ArrowTasked
@@ -293,6 +294,10 @@ client
 				del(k)
 				src.mob.ArrowTasked = null
 				src.mob.RasenganUp()
+			if(findtext(src.mob.copy,"Nin Training") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == NORTH)
+				var/k = src.mob.ArrowTasked
+				del(k)
+				src.mob.NinTrainingUp()
 			if(findtext(src.mob.copy,"Heal") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == NORTH)
 				var/k = src.mob.ArrowTasked
 				del(k)
@@ -330,7 +335,7 @@ client
 			if(src.mob.copy=="AlmightyPush")
 				if(src.mob.arrow=="U")
 					spawn()
-						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						WArrow.pixel_x=-64
 						WArrow.dir=WEST
 						src.images-=src.mob.ArrowTasked
@@ -386,6 +391,10 @@ client
 				del(k)
 				src.mob.ArrowTasked = null
 				src.mob.RasenganUp()
+			if(findtext(src.mob.copy,"Nin Training") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == SOUTH)
+				var/k = src.mob.ArrowTasked
+				del(k)
+				src.mob.NinTrainingUp()
 			if(findtext(src.mob.copy,"Heal") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == SOUTH)
 				var/k = src.mob.ArrowTasked
 				del(k)
@@ -428,7 +437,7 @@ client
 			if(src.mob.copy=="AlmightyPush")
 				if(src.mob.arrow=="D")
 					spawn()
-						var/obj/EArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/EArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						EArrow.pixel_x=64
 						EArrow.dir=EAST
 						src.images-=src.mob.ArrowTasked
@@ -444,7 +453,7 @@ client
 			if(src.mob.copy=="Climb")
 				if(src.mob.arrow=="U")
 					spawn()
-						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						WArrow.pixel_x=-64
 						WArrow.dir=WEST
 						src.images-=src.mob.ArrowTasked
@@ -458,7 +467,7 @@ client
 						..()
 				if(src.mob.arrow=="L")
 					spawn()
-						var/obj/EArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/EArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						EArrow.pixel_x=64
 						EArrow.dir=EAST
 						src.images-=src.mob.ArrowTasked
@@ -486,6 +495,10 @@ client
 				del(k)
 				src.mob.ArrowTasked = null
 				src.mob.RasenganUp()
+			if(findtext(src.mob.copy,"Nin Training") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == WEST)
+				var/k = src.mob.ArrowTasked
+				del(k)
+				src.mob.NinTrainingUp()
 			if(findtext(src.mob.copy,"Heal") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == WEST)
 				var/k = src.mob.ArrowTasked
 				del(k)
@@ -514,7 +527,7 @@ client
 			if(src.mob.copy=="AlmightyPush")
 				if(src.mob.arrow=="L")
 					spawn()
-						var/obj/SArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/SArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						SArrow.pixel_y=-64
 						SArrow.dir=SOUTH
 						src.images-=src.mob.ArrowTasked
@@ -530,7 +543,7 @@ client
 			if(src.mob.copy=="Climb")
 				if(src.mob.arrow=="U")
 					spawn()
-						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/WArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						WArrow.pixel_x=-64
 						WArrow.dir=WEST
 						src.images-=src.mob.ArrowTasked
@@ -544,7 +557,7 @@ client
 						..()
 				if(src.mob.arrow=="R")
 					spawn()
-						var/obj/UArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/UArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						UArrow.pixel_y=64
 						UArrow.dir=NORTH
 						src.images-=src.mob.ArrowTasked
@@ -572,6 +585,10 @@ client
 				del(k)
 				src.mob.ArrowTasked = null
 				src.mob.RasenganUp()
+			if(findtext(src.mob.copy,"Nin Training") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == EAST)
+				var/k = src.mob.ArrowTasked
+				del(k)
+				src.mob.NinTrainingUp()
 			if(findtext(src.mob.copy,"Heal") && src.mob.ArrowTasked && src.mob.ArrowTasked.dir == EAST)
 				var/k = src.mob.ArrowTasked
 				del(k)
@@ -602,7 +619,7 @@ client
 					spawn()
 						//for(var/obj/Screen/Arrow/A in src.screen)
 						//	A.dir=NORTH
-						var/obj/NArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9998)
+						var/obj/NArrow = image('Misc Effects.dmi',usr,icon_state="arrow",layer=9999)
 						NArrow.pixel_y=64
 						NArrow.dir=NORTH
 						src.images-=src.mob.ArrowTasked
@@ -698,6 +715,14 @@ mob
 					if(M.client)spawn() M.ScreenShake(10)
 					M.UpdateHMB()
 					M.Death(src)
+				if(Effects["Nin Training"])
+					Effects["Rasengan"]=null
+					flick("punchr",src)
+					overlays-=image('chakra.dmi')
+					overlays+=image('chakra.dmi')
+					spawn(3) overlays-=image('chakra.dmi')
+					var/colour = colour2html("white")
+					M.UpdateHMB()
 				if(Effects["Chidori"])
 					var/damage=Effects["Chidori"]
 					Effects["Chidori"]=null
@@ -737,7 +762,7 @@ mob
 								src.icon_state="climbS"
 								src.copy="Climb"
 								src.arrow="L"
-								var/obj/WArrow = image('Misc Effects.dmi',src,icon_state="arrow",layer=9998)
+								var/obj/WArrow = image('Misc Effects.dmi',src,icon_state="arrow",layer=9999)
 								WArrow.pixel_x=-64
 								WArrow.dir=WEST
 								src.ArrowTasked=WArrow
@@ -823,5 +848,3 @@ mob
 				src.icon_state=""
 				src.RestoreOverlays()
 				if(!jutsuaffect)src.move=1
-
-
