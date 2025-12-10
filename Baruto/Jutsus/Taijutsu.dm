@@ -2063,12 +2063,15 @@ mob/proc/
 			src.firing=1
 			src.overlays+=image('jutsus/chakra.dmi',"chakra")  // chakracharge
 			src.icon_state="hands"
+			src.copy="Nin Training"
 			while(streak < 50 && !Prisoned)  // Max 20 arrows
 				if(!ChakraCheck(50))
 					src << "<span class='warning'>No chakra! Training ends (streak: [streak])</span>"
 					src.firing=0
 					break
 				src.chakra -= 50  // Consume per arrow
+				DIRS = list(NORTH,SOUTH,EAST,WEST)
+				DIRS = rand(DIRS)
 				var/obj/A = new/obj()
 				A.IsJutsuEffect=src
 				A.loc = src.loc
@@ -2076,26 +2079,25 @@ mob/proc/
 				A.icon_state = "arrow"
 				A.pixel_x=15
 				A.pixel_y=7
-				A.dir = DIRS[1]
-				DIRS-=DIRS[1]
+				A.dir = pick(list(NORTH,SOUTH,EAST,WEST))
 				A.layer=9999
 				src.ArrowTasked = A
-				spawn()  // 1.7s limit
+				spawn(25)  // 1.7s limit
 					while(src.ArrowTasked == A)
-						if(src.dir == A.dir)
 						streak++
 						src << "<span class='boldnotice'>Success! Streak: [streak]</span>"
-						if(loc.loc:Safe!=1) src.LevelStat("Ninjutsu", 1)
+						if(loc.loc:Safe!=1) src.LevelStat("Ninjutsu", rand(5,15))
 						del(A)
 						src.ArrowTasked = null
 						break
-					sleep(1)  // Tick for press
+						sleep(1)  // Tick for press
 				spawn(17)
-					if(src.ArrowTasked == A)  // "Press" = face arrow dir
+					if(src.ArrowTasked -= A)  // "Press" = face arrow dir
 						src << "<span class='warning'>Timeout! Streak: [streak]</span>"
 						del(A)
 						src.ArrowTasked = null
 				sleep(20)
+			src.copy = null
 			src.icon_state=""
 			src.overlays-=image('jutsus/chakra.dmi',"chakra")
 			src.move=1
