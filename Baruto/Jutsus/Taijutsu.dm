@@ -1,40 +1,37 @@
 mob/var/tmp/KOs
-obj/nin_arrow
+obj/screen/nin_arrow
 	icon = 'misc effects.dmi'
 	icon_state = "arrow"
 	layer = 9999
 	mouse_opacity = 0
-	New(atom/newloc, mob/M)
-		..(newloc)
-		density = 0
-		if(M) M.nin_arrow_obj = src
-		spawn(20) if(src) del(src)
+	New(client/C, mob/M, dir/D)
+		..()
+		C.screen += src
+		src.dir = D
+		spawn(30) if(src) del(src)
 /client/verb/NinUp()
 	set hidden = 1
-	if(!usr.client || !usr.nin_training_active) return  // Not active
-	if(usr.current_nin_arrow == NORTH)  // Matches UP
-		if(usr.NinArrowSuccess()) return
+	var/mob/usr=src.mob
+	if(!usr.nin_training_active) return  // Not active 
+	if(usr.NinArrowSuccess(NORTH)) return
 	usr.EndNinTraining("Wrong (UP)! Streak: [usr.nin_streak]")
 /client/verb/NinDown()
 	set hidden = 1
-	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.client || !usr.nin_training_active) return 
-	if(usr.current_nin_arrow == SOUTH)  // Matches UP
-		if(usr.NinArrowSuccess()) return
+	var/mob/usr=src.mob
+	if(!usr.nin_training_active) return  // Not active 
+	if(usr.NinArrowSuccess(SOUTH)) return
 	usr.EndNinTraining("Wrong (DOWN)! Streak: [usr.nin_streak]")
 /client/verb/NinLeft()
 	set hidden = 1
-	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.client || !usr.nin_training_active) return 
-	if(usr.current_nin_arrow == EAST)  // Matches UP
-		if(usr.NinArrowSuccess()) return
+	var/mob/usr=src.mob
+	if(!usr.nin_training_active) return  // Not active 
+	if(usr.NinArrowSuccess(WEST)) return
 	usr.EndNinTraining("Wrong (LEFT)! Streak: [usr.nin_streak]")
 /client/verb/NinRight()
 	set hidden = 1
-	if(!usr.current_nin_arrow) return  // Not active
-	if(!usr.client || !usr.nin_training_active) return 
-	if(usr.current_nin_arrow == WEST)  // Matches UP
-		if(usr.NinArrowSuccess()) return
+	var/mob/usr=src.mob
+	if(!usr.nin_training_active) return  // Not active 
+	if(usr.NinArrowSuccess(EAST)) return
 	usr.EndNinTraining("Wrong (RIGHT)! Streak: [usr.nin_streak]")
 /client/verb/NinEnd()
 	set hidden = 1
@@ -2174,7 +2171,7 @@ mob/proc/
 			sleep(20)
 	NinSpawnArrow()
 		if(!src.nin_training_active) return 0
-		var/arrow_dir = pick(NORTH,SOUTH,EAST,WEST)
+		var/dir/arrow_dir = pick(NORTH,SOUTH,EAST,WEST)
 		src.current_nin_arrow = arrow_dir
 		src.nin_arrow_time = world.time
 		var/client/C = src.client
@@ -2184,8 +2181,8 @@ mob/proc/
 		src.nin_arrow_obj = new /obj/nin_arrow(C, src, arrow_dir)
 		spawn(15) src.NinArrowTimeoutCheck()
 		return 1
-	dir2text(dir/D)
-		switch(D)
+	dir2text(dir/arrow_dir)
+		switch(arrow_dir)
 			if(NORTH) return "UP ↑"
 			if(SOUTH) return "DOWN ↓"
 			if(EAST) return "RIGHT →"
@@ -2210,7 +2207,7 @@ mob/proc/
 		spawn(15)
 			src.NinArrowTimeoutCheck()
 	NinArrowSuccess()
-		if(!src.nin_training_active || src.current_nin_arrow != D || (world.time - src.nin_arrow_time) > 15) return 0
+		if(!src.nin_training_active || src.current_nin_arrow != arrow_dir || (world.time - src.nin_arrow_time) > 15) return 0
 		if(src.nin_arrow_obj) del(src.nin_arrow_obj); src.nin_arrow_obj = null
 		var/client/C = src.client
 		if(src.nin_arrow_obj)
@@ -2218,12 +2215,8 @@ mob/proc/
 			del(src.nin_arrow_obj)
 			src.nin_arrow_obj = null
 		src.nin_streak ++
-		src.nin_arrow_time = 0
 		src.current_nin_arrow = 0
 		src << "<span class='good'><b>Correct! Streak: [src.nin_streak]</b></span>"
-		spawn(5)
-			src.NinArrowLoop()
-			src.current_nin_arrow = 0
 		return 1
 	NinArrowTimeout()
 		src.EndNinTraining("Missed! Final Streak: [src.nin_streak]")
@@ -2234,6 +2227,9 @@ mob/proc/
 		src.nin_training_active = 0
 		var/client/C = src.client
 		if(src.nin_arrow_obj && C)
+			C.screen -= src.nin_arrow_obj
+			del(src.nin_arrow_obj)
+			src.nin_arrow_obj = null
 		src << "<span class='warning'><b>[reason]</b></span>"
 		src.nin_arrow_time = 0
 		if(src.nin_arrow_obj && C)
