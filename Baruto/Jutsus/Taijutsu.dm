@@ -1,11 +1,50 @@
 mob/var/tmp/KOs
+/client/verb/NinUp()
+	set hidden = 1
+	if(!usr.current_nin_arrow) return  // Not active
+	if(!usr.nin_training_active) return
+	if(usr.current_nin_arrow == NORTH)  // Matches UP
+		if(usr.NinArrowSuccess()) return
+	usr.EndNinTraining("Wrong (UP)! Streak: [usr.nin_streak]")
+/client/verb/NinDown()
+	set hidden = 1
+	if(!usr.current_nin_arrow) return  // Not active
+	if(!usr.nin_training_active) return
+	if(usr.current_nin_arrow == SOUTH)  // Matches UP
+		if(usr.NinArrowSuccess()) return
+	usr.EndNinTraining("Wrong (DOWN)! Streak: [usr.nin_streak]")
+/client/verb/NinLeft()
+	set hidden = 1
+	if(!usr.current_nin_arrow) return  // Not active
+	if(!usr.nin_training_active) return
+	if(usr.current_nin_arrow == EAST)  // Matches UP
+		if(usr.NinArrowSuccess()) return
+	usr.EndNinTraining("Wrong (LEFT)! Streak: [usr.nin_streak]")
+/client/verb/NinRight()
+	set hidden = 1
+	if(!usr.current_nin_arrow) return  // Not active
+	if(!usr.nin_training_active) return
+	if(usr.current_nin_arrow == WEST)  // Matches UP
+		if(usr.NinArrowSuccess()) return
+	usr.EndNinTraining("Wrong (RIGHT)! Streak: [usr.nin_streak]")
+/client/verb/NinEnd()
+	set hidden = 1
+	set name = "End Nin_Training"
+	usr.EndNinTraining("Stopped early. Streak: [usr.nin_streak]")
 mob/var/tmp/
 	ChakraJutsuState = 0
 	ChakraJutsuIndex = 0
 	ChakraJutsuSequence = list()
 	ChakraJutsuTimer = 0
+
 mob
 	var/tmp/sheilded=0
+	var/nin_streak=0
+	var/current_nin_arrow=0
+	var/nin_arrow_timer=0
+	var/nin_arrow_time=0
+	var/nin_training_active=0
+	var/obj/nin_arrow_obj = null
 	var/tmp/gates[5]
 	var/tmp/guardians[1]
 	var/tmp/mystical_palms=0//Probably should add a technique for this.
@@ -2052,21 +2091,37 @@ mob/proc/
 			if(ChakraCheck(50)) return
 			if(loc.loc:Safe!=1) src.LevelStat("Ninjutsu",rand(4,8))
 			src.Levelup()
+			src.nin_streak = 0
 			if(J.level<4)
 				if(loc.loc:Safe!=1) J.exp+=rand(2,5)
 				J.Levelup()
 			var/list/DIRS=list(NORTH,SOUTH,EAST,WEST)
-			var/streak=0
+			obj/nin_arrow
+				name = "nin_arrow"
+				icon = 'misc effects.dmi'
+				icon_state = "arrow"
+				layer = 9999
+				mouse_opacity = 0
+				anchored = 1
+				New(loc, mob/M)
+					..()
+					if(M) M.nin_arrow_obj = src
+					spawn(20) if(src) del(src)
+			src << "<span class='notice'><b>Nin_Training!</b> Press matching arrows within 1.5s. Streak: [src.nin_streak]</span>"
+			usr.nin_streak=0
+			src.nin_training_active=1
 			src.move=0
 			src.injutsu=1
 			src.canattack=0
 			src.firing=1
 			src.overlays+=image('jutsus/chakra.dmi',"chakra")  // chakracharge
 			src.icon_state="hands"
+			src.verbs += typesof(/client/verb/NinUp,/client/verb/NinDown,/client/verb/NinLeft,/client/verb/NinRight,/client/verb/NinEnd)
+			spawn() src.NinArrowLoop()
 			src.copy="Nin Training"
-			while(streak < 50 && !Prisoned)  // Max 20 arrows
+			while(nin_streak < 50 && !Prisoned)  // Max 20 arrows
 				if(!ChakraCheck(50))
-					src << "<span class='warning'>No chakra! Training ends (streak: [streak])</span>"
+					src << "<span class='warning'>No chakra! Training ends (streak: [nin_streak])</span>"
 					src.firing=0
 					break
 				src.chakra -= 50  // Consume per arrow
@@ -2084,8 +2139,8 @@ mob/proc/
 				src.ArrowTasked = A
 				spawn(25)  // 1.7s limit
 					while(src.ArrowTasked == A)
-						streak++
-						src << "<span class='boldnotice'>Success! Streak: [streak]</span>"
+						nin_streak++
+						src << "<span class='boldnotice'>Success! Streak: [nin_streak]</span>"
 						if(loc.loc:Safe!=1) src.LevelStat("Ninjutsu", rand(5,15))
 						del(A)
 						src.ArrowTasked = null
@@ -2093,7 +2148,7 @@ mob/proc/
 						sleep(1)  // Tick for press
 				spawn(17)
 					if(src.ArrowTasked -= A)  // "Press" = face arrow dir
-						src << "<span class='warning'>Timeout! Streak: [streak]</span>"
+						src << "<span class='warning'>Timeout! Streak: [nin_streak]</span>"
 						del(A)
 						src.ArrowTasked = null
 				sleep(20)
@@ -2104,7 +2159,7 @@ mob/proc/
 			src.injutsu=0
 			src.canattack=1
 			src.firing=0
-			src << "<span class='notice'>Training done! Ninjutsu gained: [streak]</span>"
+			src << "<span class='notice'>Training done! Ninjutsu gained: [nin_streak]</span>"
 			src.ArrowTasked=null
 			Effects["Nin Training"]=null
 			J.Excluded = 1
@@ -2114,6 +2169,49 @@ mob/proc/
 			spawn()
 				J.cooltimer = J.maxcooltime
 				J.JutsuCoolDown(src)
+	NinArrowLoop()
+		if(src.nin_streak < 0) return
+		var/arrow_dir = pick(NORTH, SOUTH, EAST, WEST)
+		var/arrow_emote = arrow_dir
+		src.current_nin_arrow = arrow_dir
+		src.nin_arrow_time = world.time
+		src.nin_arrow_obj = new /obj/nin_arrow(src.loc, src)
+		src.nin_arrow_obj.dir = arrow_dir
+		src.nin_arrow_obj.alpha = 255
+		switch(arrow_dir)
+			if(NORTH) arrow_emote = "UP ↑"
+			if(SOUTH) arrow_emote = "DOWN ↓"
+			if(WEST) arrow_emote = "LEFT ←"
+			if(EAST) arrow_emote = "RIGHT →"
+		src << "<span class='big warning'><b>[arrow_emote]! (1.5s)</b></span>"
+		spawn(15)
+			src.NinArrowTimeoutCheck()
+	NinArrowSuccess()
+		if(!src.nin_training_active || (world.time - src.nin_arrow_time) > 15) return 0
+		if(src.nin_arrow_obj) del(src.nin_arrow_obj); src.nin_arrow_obj = null
+		src.nin_streak ++
+		src.nin_arrow_time = 0
+		src.current_nin_arrow = 0
+		src << "<span class='good'><b>Correct! Streak: [src.nin_streak]</b></span>"
+		spawn(5)
+			src.NinArrowLoop()
+			src.current_nin_arrow = 0
+		return 1
+	NinArrowTimeout()
+		src.EndNinTraining("Missed! Final Streak: [src.nin_streak]")
+	NinArrowTimeoutCheck()
+		if(src.nin_training_active && src.current_nin_arrow && (world.time - src.nin_arrow_time) >= 15)
+			src.EndNinTraining("Missed! Final Streak: [src.nin_streak]")
+	EndNinTraining(reason="Ended")
+		src.nin_training_active = 0
+		src << "<span class='warning'><b>[reason]</b></span>"
+		src.current_nin_arrow = 0
+		src.nin_arrow_time = 0
+		if(src.nin_arrow_obj)
+			del(src.nin_arrow_obj)
+			src.nin_arrow_obj = null
+		src.nin_streak = 0  // Reset
+		src.verbs -= typesof(/client/verb/NinUp,/client/verb/NinDown,/client/verb/NinLeft,/client/verb/NinRight,/client/verb/NinEnd)
 	Chidori()
 		for(var/obj/Jutsus/Chidori/J in src.JutsusLearnt) if(J.Excluded==0)
 			if(Effects["Chidori"])
