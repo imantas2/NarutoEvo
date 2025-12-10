@@ -1,42 +1,46 @@
 mob/var/tmp/KOs
-obj/screen/nin_arrow
+obj/nin_arrow
 	icon = 'misc effects.dmi'
 	icon_state = "arrow"
 	layer = 9999
 	mouse_opacity = 0
-	New(client/C, mob/M, dir/D)
+	New(client/C, mob/M, D)
 		..()
-		C.screen += src
-		src.dir = D
-		spawn(30) if(src) del(src)
+		if(C)
+			C.screen += src
+		if(M)
+			M.nin_arrow_obj = src
+		dir = D
 /client/verb/NinUp()
 	set hidden = 1
-	var/mob/usr=src.mob
-	if(!usr.nin_training_active) return  // Not active 
-	if(usr.NinArrowSuccess(NORTH)) return
-	usr.EndNinTraining("Wrong (UP)! Streak: [usr.nin_streak]")
+	var/mob/M=src.mob
+	if(!M || !M.nin_training_active) return  // Not active 
+	if(M.NinArrowSuccess(NORTH)) return
+	M.EndNinTraining("Wrong (UP)! Streak: [M.nin_streak]")
 /client/verb/NinDown()
 	set hidden = 1
-	var/mob/usr=src.mob
-	if(!usr.nin_training_active) return  // Not active 
-	if(usr.NinArrowSuccess(SOUTH)) return
-	usr.EndNinTraining("Wrong (DOWN)! Streak: [usr.nin_streak]")
+	var/mob/M=src.mob
+	if(!M || !M.nin_training_active) return  // Not active 
+	if(M.NinArrowSuccess(SOUTH)) return
+	M.EndNinTraining("Wrong (DOWN)! Streak: [M.nin_streak]")
 /client/verb/NinLeft()
 	set hidden = 1
-	var/mob/usr=src.mob
-	if(!usr.nin_training_active) return  // Not active 
-	if(usr.NinArrowSuccess(WEST)) return
-	usr.EndNinTraining("Wrong (LEFT)! Streak: [usr.nin_streak]")
+	var/mob/M=src.mob
+	if(!M || !M.nin_training_active) return  // Not active 
+	if(M.NinArrowSuccess(WEST)) return
+	M.EndNinTraining("Wrong (LEFT)! Streak: [M.nin_streak]")
 /client/verb/NinRight()
 	set hidden = 1
-	var/mob/usr=src.mob
-	if(!usr.nin_training_active) return  // Not active 
-	if(usr.NinArrowSuccess(EAST)) return
-	usr.EndNinTraining("Wrong (RIGHT)! Streak: [usr.nin_streak]")
+	var/mob/M=src.mob
+	if(!M || !M.nin_training_active) return  // Not active 
+	if(M.NinArrowSuccess(EAST)) return
+	M.EndNinTraining("Wrong (RIGHT)! Streak: [M.nin_streak]")
 /client/verb/NinEnd()
 	set hidden = 1
 	set name = "End Nin_Training"
-	usr.EndNinTraining("Stopped early. Streak: [usr.nin_streak]")
+	var/mob/M = src.mob
+	if(!M) return
+	M.EndNinTraining("Stopped early. Streak: [M.nin_streak]")
 mob/var/tmp/
 	ChakraJutsuState = 0
 	ChakraJutsuIndex = 0
@@ -2169,6 +2173,26 @@ mob/proc/
 		while(src.nin_training_active)
 			if(!src.NinSpawnArrow()) break
 			sleep(20)
+	StartNinTraining()
+		if(nin_training_active) return
+		nin_training_active = 1
+		nin_streak = 0
+		NinArrowNext()
+	NinArrowNext()
+		if(!nin_training_active) return
+		if(nin_arrow_obj)
+			if(client)
+				client.screen -= nin_arrow_obj
+			del(nin_arrow_obj)
+			nin_arrow_obj = null
+		var/dir/arrow_dir = pick(NORTH, SOUTH, EAST, WEST)
+		current_nin_arrow = arrow_dir
+		nin_arrow_time = world.time
+		if(client)
+			nin_arrow_obj = new /obj/nin_arrow(client, src, arrow_dir)
+		spawn(15)
+			if(nin_training_active && current_nin_arrow && (world.time - nin_arrow_time) >= 15)
+				EndNinTraining("Too slow! Streak: [nin_streak]")
 	NinSpawnArrow()
 		if(!src.nin_training_active) return 0
 		var/dir/arrow_dir = pick(NORTH,SOUTH,EAST,WEST)
@@ -2206,39 +2230,37 @@ mob/proc/
 		src << "<span class='big warning'><b>[arrow_emote]! (1.5s)</b></span>"
 		spawn(15)
 			src.NinArrowTimeoutCheck()
-	NinArrowSuccess()
-		if(!src.nin_training_active || src.current_nin_arrow != arrow_dir || (world.time - src.nin_arrow_time) > 15) return 0
-		if(src.nin_arrow_obj) del(src.nin_arrow_obj); src.nin_arrow_obj = null
-		var/client/C = src.client
-		if(src.nin_arrow_obj)
-			C.screen -= src.nin_arrow_obj
-			del(src.nin_arrow_obj)
-			src.nin_arrow_obj = null
-		src.nin_streak ++
-		src.current_nin_arrow = 0
-		src << "<span class='good'><b>Correct! Streak: [src.nin_streak]</b></span>"
+	NinArrowSuccess(dir/D)
+		if(!nin_training_active) return 0
+		if(D != current_nin_arrow) return 0
+		nin_streak++
+		if(nin_arrow_obj)
+			if(client)
+				client.screen -= nin_arrow_obj
+			del(nin_arrow_obj)
+			nin_arrow_obj = null
+		current_nin_arrow = 0
+		nin_arrow_time = 0
+		spawn(5)
+			NinArrowNext()
 		return 1
 	NinArrowTimeout()
 		src.EndNinTraining("Missed! Final Streak: [src.nin_streak]")
 	NinArrowTimeoutCheck()
 		if(src.nin_training_active && src.current_nin_arrow && (world.time - src.nin_arrow_time) >= 15)
 			src.EndNinTraining("Missed! Final Streak: [src.nin_streak]")
-	EndNinTraining(reason="Ended")
-		src.nin_training_active = 0
-		var/client/C = src.client
-		if(src.nin_arrow_obj && C)
-			C.screen -= src.nin_arrow_obj
-			del(src.nin_arrow_obj)
-			src.nin_arrow_obj = null
-		src << "<span class='warning'><b>[reason]</b></span>"
-		src.nin_arrow_time = 0
-		if(src.nin_arrow_obj && C)
-			C.screen -= src.nin_arrow_obj
-			del(src.nin_arrow_obj)
-			src.nin_arrow_obj = null
-		src.nin_streak = 0  // Reset
-		src.current_nin_arrow = 0
-		src.verbs -= typesof(/client/verb/NinUp,/client/verb/NinDown,/client/verb/NinLeft,/client/verb/NinRight,/client/verb/NinEnd)
+	EndNinTraining(reason)
+		if(!nin_training_active) return
+		nin_training_active = 0
+		current_nin_arrow = 0
+		nin_arrow_time = 0
+		if(nin_arrow_obj)
+			if(client)
+				client.screen -= nin_arrow_obj
+			del(nin_arrow_obj)
+			nin_arrow_obj = null
+		if(reason)
+			src << "<span class='warning'>[reason]</span>"
 	Chidori()
 		for(var/obj/Jutsus/Chidori/J in src.JutsusLearnt) if(J.Excluded==0)
 			if(Effects["Chidori"])
